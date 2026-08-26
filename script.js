@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const phrases = [
         'Data Scientist',
         'Machine Learning Engineer',
-        'Mechanical Enigineer',
         'AI researcher',
+        'Mechanical Enigineer',
         'Problem Solver'
     ];
     let phraseIndex = 0;
