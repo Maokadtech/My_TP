@@ -24,45 +24,13 @@ A modern, responsive portfolio website for a Data Scientist & Machine Learning E
 
 ## 🌐 Deployment
 
-### Option 1: GitHub Pages (Free)
-1. Create a new repository on GitHub
-2. Upload these 3 files to the repo
-3. Go to Settings → Pages → Select "main" branch
-4. Your site will be live at `https://yourusername.github.io/repo-name`
 
-### Option 2: Netlify (Free)
-1. Go to [netlify.com](https://netlify.com)
-2. Drag and drop the folder containing these files
-3. Your site goes live instantly
 
-### Option 3: Vercel (Free)
-1. Go to [vercel.com](https://vercel.com)
-2. Import your GitHub repo or drag-and-drop
-3. Deploy instantly
 
-## ⚙️ Customization
 
-### Update Social Links
-Find these in `index.html` and replace `#` with your actual URLs:
-- LinkedIn: `https://linkedin.com/in/samad-ayomide-musa`
-- GitHub: `https://github.com/samadayomide`
-- Twitter: `https://twitter.com/samadayomide`
 
-### Enable Contact Form
-1. Go to [formspree.io](https://formspree.io)
-2. Create a new form
-3. Replace `YOUR_FORM_ID` in the form action URL in `index.html`
 
-### Add Project Images
-Replace the gradient backgrounds in `.project-image` with actual screenshots:
-```css
-.project-image {
-    background: url('project-screenshot.jpg') center/cover;
-}
-```
 
-### Add Your Resume
-Upload your CV PDF and update the download link in the hero/contact section.
 
 ## 🎨 Color Scheme
 
